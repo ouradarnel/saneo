@@ -6,6 +6,8 @@ __pycache__/
 *.pyo
 *.pyd
 .env
+.env.*
+!.env.example
 venv/
 db.sqlite3
 staticfiles/
@@ -30,4 +32,3 @@ Thumbs.db
 # Docker
 # ======================
 *.log
-
