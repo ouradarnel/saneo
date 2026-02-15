@@ -1,0 +1,33 @@
+# ======================
+# Python / Django
+# ======================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+db.sqlite3
+staticfiles/
+media/
+
+# ======================
+# Angular / Node
+# ======================
+node_modules/
+dist/
+.angular/
+npm-debug.log
+yarn-error.log
+
+# ======================
+# OS
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# Docker
+# ======================
+*.log
+
