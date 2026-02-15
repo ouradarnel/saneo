@@ -1,0 +1,12 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Logo SANEO">
+  <defs>
+    <linearGradient id="bg" x1="16" y1="12" x2="112" y2="116" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F97316"/>
+      <stop offset="0.55" stop-color="#F59E0B"/>
+      <stop offset="1" stop-color="#DC2626"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="28" fill="url(#bg)"/>
+  <path d="M32 76C32 56 48 40 68 40H96V56H68C57 56 48 65 48 76C48 87 57 96 68 96H96V112H68C48 112 32 96 32 76Z" fill="#fff3c4"/>
+  <circle cx="92" cy="32" r="12" fill="#fff" opacity="0.95"/>
+</svg>
